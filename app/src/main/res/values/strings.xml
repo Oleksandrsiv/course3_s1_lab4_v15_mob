@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">course3_s1_lab4_v15_mob</string>
+    <string name="app_name">Lab4</string>
+    <string name="header_registration">Реєстрація на сайті</string>
+    <string name="subtitle_enter_data">Введіть Ваші дані</string>
+    <string name="hint_login">Логін</string>
+    <string name="hint_password">Пароль</string>
+    <string name="action_login">Увійти</string>
+    <string name="action_register">Зареєструватися</string>
 </resources>
